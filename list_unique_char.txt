@@ -1,2 +1,7 @@
 first gid listings: www.aliexpress.com-4c6a9aed4f56cd4d8e70088bf8b068e7
                     www.aliexpress.com-4c6a9aed4f56cd4d8e70088bf8b068e7
+
+
+command: hen scraper page list ali-express --page_type listings
+
+second_gid: www.aliexpress.com-160ece64d32d813b9dca8eee2b58b4ee
