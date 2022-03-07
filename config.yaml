@@ -11,6 +11,6 @@ parsers:
     page_type: product
     disabled: false
 
-exporters: false
+exporters:
   - file: ./exporters/products_json.yaml
     disabled: false
